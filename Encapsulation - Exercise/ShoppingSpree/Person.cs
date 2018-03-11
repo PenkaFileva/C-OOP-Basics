@@ -49,4 +49,12 @@ public class Person
         this.Products.Add(procuct);
         return $"{this.Name} bought {procuct.Name}";
     }
+
+    public override string ToString()
+    {
+        string procuctOutput = this.Products.Count > 0 ? 
+            string.Join(", ", this.Products) : "Nothing bought";
+        string result = $"{this.Name} - {procuctOutput}";
+        return result;
+    }
 }

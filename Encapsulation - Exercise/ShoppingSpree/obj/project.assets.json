@@ -674,11 +674,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\C# Fundamentals\\C# OOP Basics\\Encapsulation - Exercise\\ShoppingSpree\\ShoppingSpree.csproj",
+      "projectUniqueName": "D:\\C# Fundamentals\\C# OOP Basics\\C-OOP-Basics\\Encapsulation - Exercise\\ShoppingSpree\\ShoppingSpree.csproj",
       "projectName": "ShoppingSpree",
-      "projectPath": "D:\\C# Fundamentals\\C# OOP Basics\\Encapsulation - Exercise\\ShoppingSpree\\ShoppingSpree.csproj",
+      "projectPath": "D:\\C# Fundamentals\\C# OOP Basics\\C-OOP-Basics\\Encapsulation - Exercise\\ShoppingSpree\\ShoppingSpree.csproj",
       "packagesPath": "C:\\Users\\Nasko\\.nuget\\packages\\",
-      "outputPath": "D:\\C# Fundamentals\\C# OOP Basics\\Encapsulation - Exercise\\ShoppingSpree\\obj\\",
+      "outputPath": "D:\\C# Fundamentals\\C# OOP Basics\\C-OOP-Basics\\Encapsulation - Exercise\\ShoppingSpree\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\Microsoft SDKs\\NuGetPackagesFallback\\",
