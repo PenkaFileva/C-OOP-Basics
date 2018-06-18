@@ -18,7 +18,7 @@ public class Program
             //person.Age = personAge;
             famili.AddMember(person);
         }
-        var oldestPerson = famili.GetOldestMember();
+        var oldestPerson = famili.GetOldestMember();       
         Console.WriteLine($"{oldestPerson.Name} {oldestPerson.Age}");
     }
 }
