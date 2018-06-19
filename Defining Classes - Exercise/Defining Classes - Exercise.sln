@@ -11,9 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DefineaClassPerson", "Defin
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CompanyRoster", "CompanyRoster\CompanyRoster.csproj", "{9D3F3C3E-2F13-4713-AE45-F289AA4C5698}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpinionPoll", "OpinionPoll\OpinionPoll.csproj", "{2BA8A3B7-81D6-4BD2-A5FD-FE3664716D59}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpinionPoll", "OpinionPoll\OpinionPoll.csproj", "{2BA8A3B7-81D6-4BD2-A5FD-FE3664716D59}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateModifier", "DateModifier\DateModifier.csproj", "{AC2AE1BC-44A5-4E1F-B5B7-517D96A81690}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DateModifier", "DateModifier\DateModifier.csproj", "{AC2AE1BC-44A5-4E1F-B5B7-517D96A81690}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
